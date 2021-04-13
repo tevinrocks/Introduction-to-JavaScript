@@ -19,7 +19,13 @@ Do the following:
 */
 
 
-
+var votingAge = 17
+if (votingAge>=18){
+  console.log("True")
+}
+else if(votingAge<18){
+  console.log("False")
+}
 /*
 Task 1b - Values
 
